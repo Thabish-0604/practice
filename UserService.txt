@@ -1,2 +1,5 @@
 get into world of hit!!
 process the data
+
+create an avatar for user
+ok im good
